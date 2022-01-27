@@ -115,8 +115,11 @@ section{
 **********************/
 .header{
 	background-image: url(../images/header.jpg);
+	/*
 	height: 100vh;
 	position: relative;
+	*/
+	background-size: cover;
 }
 .intro-box{
 	height: 100vh;
